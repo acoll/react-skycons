@@ -27,8 +27,7 @@
   },
   "dependencies": {
     "react": "^15.2.1",
-    "react-dom": "^15.2.1",
-    "skycons": "^1.0.0"
+    "react-dom": "^15.2.1"
   },
   "peerDependencies": {
     "react": "^15.2.1",
