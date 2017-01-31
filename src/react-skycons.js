@@ -1,6 +1,6 @@
 import React, { Component, PropTypes } from 'react';
 import ReactDOM from 'react-dom';
-const Skycons = require('skycons')(window);
+const Skycons = require('./skycons')(window);
 
 class ReactSkycons extends Component {
   constructor(props) {
