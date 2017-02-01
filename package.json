@@ -2,7 +2,7 @@
   "name": "react-skycons",
   "version": "0.3.0",
   "description": "",
-  "main": "dist/react-skycons.js",
+  "main": "src/react-skycons.js",
   "scripts": {
     "lint": "eslint .",
     "build": "./node_modules/.bin/babel src/react-skycons.js --out-file dist/react-skycons.js",
