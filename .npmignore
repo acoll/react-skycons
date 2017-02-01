@@ -1,5 +1,4 @@
 example/
-src/
 .npmignore
 .eslintignore
 .editorconfig
